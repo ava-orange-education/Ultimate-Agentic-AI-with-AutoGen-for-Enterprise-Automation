@@ -86,7 +86,7 @@ This project relies on the following packages:
 | Package               | Description                                                      | Usage                                          |
 |-----------------------|------------------------------------------------------------------|------------------------------------------------|
 | tiktoken              | OpenAI's tokenizer for text tokenization                         | Text encoding for LLM input                    |
-| pyautogen             | Framework for building autonomous AI agents                      | Creating agent-based systems                   |
+| ag2             | Framework for building autonomous AI agents                      | Creating agent-based systems                   |
 | transformers          | Hugging Face's NLP library                                         | Working with state-of-the-art language models  |
 | sentence-transformers | Specialized transformers for sentence embeddings                 | Creating semantic text embeddings              |
 | scikit-learn          | Machine learning library                                           | Classical ML algorithms and utilities          |

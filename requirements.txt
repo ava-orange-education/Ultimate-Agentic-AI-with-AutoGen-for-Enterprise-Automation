@@ -1,6 +1,6 @@
 # pip install -r requirements.txt
 tiktoken
-pyautogen
+ag2
 transformers
 sentence-transformers
 scikit-learn
